@@ -1,0 +1,5 @@
+export const GET_MENU = "GET_MENU"
+export const GET_MENU_FULFILLED = "GET_MENU_FULFILLED"
+export const GET_MENU_FAILED = "GET_MENU_FAILED"
+export const NAV_RESET = "NAV_RESET"
+export const TAB_CHANGED = "TAB_CHANGED"
